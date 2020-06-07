@@ -1,0 +1,9 @@
+{
+    "name": "sushant/nepali-calendar",
+    "description": "Simple Nepali Calendar that can convert unicode/regular nepali date to english date and vice versa.Also translates to unicode nepali to english and vice versa.",
+    "license": "MIT",
+    "require": {},
+    "require-dev": {
+        "orchestra/testbench": "^5.3"
+    }
+}
